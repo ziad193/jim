@@ -1,8 +1,3 @@
----
-layout: default
-title: My Training
----
-
 <!--
   This is the page Hevy links to. Edit this file, commit, and the site
   updates by itself in about a minute.
@@ -15,7 +10,7 @@ title: My Training
 
   Everything below is an EXAMPLE. Replace it with your own routine.
 -->
-
+Current Bodyweight - 85.4kg (No Creatine)
 ## Split - Microworkouts//High Freq
 
 | Day | Session |
